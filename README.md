@@ -6,14 +6,16 @@ How to set the approximation area (parallelogram):
 For simplicity let`s assume that the parallelogram is located in the first coordinate quarter, the lower base lies on the axis of the abscissus 
 and the lower left vertex coincides with the origin.
 
-Let a and b be the lengths of parallelogram sides; 
+Let 
+    a and b be the lengths of parallelogram sides; 
     nx and ny - the number of split segments on the sides, respectively (so we get the grid of size nx*ny);
     alpha - degree measure of the angle between the sides a and b (from 0 to pi/2).
     
 Input: ./a.out input.txt nx ny k eps p
 
-Here input.txt - file that defines a, b and alpha;
+Here 
 
+     input.txt - file that defines a, b and alpha;
      k - the number of the initial approximate function;
      eps - accuracy;
      p - the number of threads;
@@ -21,6 +23,7 @@ Here input.txt - file that defines a, b and alpha;
 An example of running: ./a.out input.txt 5 5 0 1e-14 4
 
 Available values of k:
+
 k = 0: f(x, y) = 1
 k = 1: f(x, y) = x
 k = 2: f(x, y) = y
