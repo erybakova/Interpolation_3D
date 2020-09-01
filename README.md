@@ -12,9 +12,9 @@ Let a and b be the lengths of parallelogram sides;
     
 Input: ./a.out input.txt nx ny k eps p
 
-Here input.txt - file that defines a, b and alpha
-     k - number of the initial approximate function
-     eps - accuracy
-     p - number of threads
+Here input.txt - file that defines a, b and alpha;
+     k - number of the initial approximate function;
+     eps - accuracy;
+     p - number of threads;
      
 An example of running: ./a.out input.txt 5 5 0 1e-14 4
