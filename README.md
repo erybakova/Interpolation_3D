@@ -24,11 +24,11 @@ An example of running: ./a.out input.txt 5 5 0 1e-14 4
 
 Available values of k:
 
-k = 0: f(x, y) = 1
-k = 1: f(x, y) = x
-k = 2: f(x, y) = y
-k = 3: f(x, y) = x + y
-k = 4: f(x) = √(x^2 + y^2)
-k = 5: f(x) = x^2 + y^2
-k = 6: f(x) = e^(x^2 - y^2)
-k = 7: f(x) = 1/(25(x^2 + y^2) + )
+     k = 0: f(x, y) = 1
+     k = 1: f(x, y) = x
+     k = 2: f(x, y) = y
+     k = 3: f(x, y) = x + y
+     k = 4: f(x) = √(x^2 + y^2)
+     k = 5: f(x) = x^2 + y^2
+     k = 6: f(x) = e^(x^2 - y^2)
+     k = 7: f(x) = 1/(25(x^2 + y^2) + )
