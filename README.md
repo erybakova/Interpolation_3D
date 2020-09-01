@@ -31,4 +31,4 @@ Available values of k:
      k = 4: f(x) = √(x^2 + y^2)
      k = 5: f(x) = x^2 + y^2
      k = 6: f(x) = e^(x^2 - y^2)
-     k = 7: f(x) = 1/(25(x^2 + y^2) + )
+     k = 7: f(x) = 1/(25(x^2 + y^2) + 1)
