@@ -1,5 +1,5 @@
 # Interpolation_3D
-Represents an approximation of a function of 2 variables x and y, defined into the parallelogram, by building the grid and defining Courant functions in the vertices.
+Represents an approximation of a function f of 2 variables x and y, defined into the parallelogram, by building the grid and defining Courant functions in the vertices.
 
 How to set the approximation area (parallelogram):
 
