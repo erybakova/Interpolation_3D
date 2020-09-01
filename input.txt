@@ -1,9 +1,9 @@
-# Задание области - параллелограмма
+# Setting an approximation area - parallelogram
 
-# Длины сторон
+# The lengths of the sides
 # a b
 1. 1.
 
-# Угол 
+# Degree
 # alpha
 60.
